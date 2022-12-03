@@ -1,0 +1,10 @@
+.MuiContainer-root input[type='email'],
+.MuiContainer-root input[type='number'],
+.MuiContainer-root input[type='text'],
+.MuiContainer-root input[type='password'],
+.MuiContainer-root textarea,
+.MuiContainer-root select {
+    padding: 16.5px 14px;
+    height: 1.4375em;
+    border: none;
+}
